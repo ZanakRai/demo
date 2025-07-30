@@ -1,2 +1,2 @@
 # demo
-This my first ripository
+This my first repository
